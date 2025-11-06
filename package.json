@@ -11,7 +11,8 @@
     "multer": "^1.4.5-lts.1",
     "axios": "^1.5.0",
     "cors": "^2.8.5"
-    "expo-image-picker":
-    "@react-native-async-storage/async-storage":
+    "expo-image-picker": "^14.1.1",
+    
+    "@react-native-async-storage/async-storage": ^1.19.0"
   }
 }
