@@ -12,6 +12,6 @@
     "axios": "^1.5.0",
     "cors": "^2.8.5"
     "expo-image-picker":
-    @react-native-async-storage/async-storage
+    "@react-native-async-storage/async-storage":
   }
 }
